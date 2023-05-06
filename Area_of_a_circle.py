@@ -1,2 +1,2 @@
 r=int(input())
-print(f'{(3.14*r*r):.2f}')
+print("%.2f"%(3.14*r*r))
