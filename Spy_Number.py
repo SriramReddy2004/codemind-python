@@ -5,6 +5,6 @@ while n:
     p*=n%10
     n//=10
 if s==p:
-    print("Spy Number")
+    print('Spy Number')
 else:
-    print("Not Spy Number")
+    print('Not Spy Number')
